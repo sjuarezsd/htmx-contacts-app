@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Contacts App is a simple yet powerful tool for managing your contacts. It comes from the [Hypermedia Systems](https://hypermedia.systems/) book and is built using **HTMX** for a dynamic and responsive user interface and **Flask** as the backend framework, this app provides a seamless experience for adding, editing, and managing your contacts efficiently. It serves as an effecive example of the power of **HTMX** for creating modern web applications using SSR and hypermedia.
+This Contacts App is a simple yet powerful tool for managing your contacts. It comes from the [Hypermedia Systems](https://hypermedia.systems/) book and is built using **HTMX** for a dynamic and responsive user interface and **Flask** as the backend framework. This app provides a seamless experience for adding, editing, and managing your contacts efficiently, and serves as an effecive example of the power of **HTMX** for creating modern web applications using SSR and hypermedia.
 
 ## Features
 
